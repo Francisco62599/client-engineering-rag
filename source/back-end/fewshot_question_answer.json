@@ -1,0 +1,77 @@
+[
+    {
+        "question": "What is one major challenge in deploying AI at scale that trusted data helps address?",
+        "correct_answer": "Trusted data enhances AI model reliability by addressing explainability and trust through more consistent and interpretable outputs, and supports model auditing and debugging by identifying inconsistencies and anomalies. This information can be found in section 1.4 Improving AI model reliability. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What enables cross-functional collaboration across silos in enterprises?",
+        "correct_answer": "Trusted data enables cross-functional collaboration by serving as a bridge for collaboration across organizational silos and with external partners. It supports data sharing across silos to enhance transparency, and ensures secure, compliant exchange mechanisms. This information can be found in section 1.4.1 Enabling cross-enterprise collaboration. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "How does AI contribute to dynamic pricing strategies?",
+        "correct_answer": "AI contributes to dynamic pricing by using real-time trusted data to optimize pricing strategies based on demand and inventory. It also enables real-time risk assessments in financial institutions to mitigate fraud and credit risks. This information can be found in section 1.4.2 Enhancing real-time decision-making. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What role does trusted data play in AI as a Service (AIaaS)?",
+        "correct_answer": "Trusted data powers scalable AIaaS platforms by supporting modular services like ML models, NLP, and predictive analytics. It also integrates with IoT devices to generate real-time data insights for industries such as logistics, healthcare, and smart cities. This information can be found in section 1.4.3 Scaling AI-driven ecosystems. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "How does AI help organizations meet ESG objectives?",
+        "correct_answer": "AI helps meet ESG objectives through sustainability analytics that use trusted data to optimize resource usage and reduce carbon footprints. It also enhances supply chain transparency to reduce waste and improve sustainability practices. This information can be found in section 1.4.4 Driving sustainability and environmental, social, and governance goals. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What enables AI systems to deliver highly personalized experiences?",
+        "correct_answer": "AI systems deliver personalized experiences by using adaptive systems that modify services in real time based on trusted customer data, and applying behavioral analytics to predict customer preferences and reduce churn. This information can be found in section 1.4.5 Personalizing customer experiences. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What challenge is posed by model complexity in AI development?",
+        "correct_answer": "Model complexity creates challenges in interpretability, integration, and transparency. Trusted data simplifies model debugging and increases explainability. This information can be found in section 1.2 Challenges in building and deploying AI models. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "How do AI-powered analytics assist in decision-making?",
+        "correct_answer": "AI-powered analytics transform raw data into actionable insights. Predictive analytics forecast trends and challenges, while prescriptive analytics recommend optimal actions. This information can be found in section 1.1 Competing with AI. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What is a key benefit of using AI in the healthcare industry?",
+        "correct_answer": "In healthcare, AI powered by trusted data improves diagnostic accuracy, predicts patient outcomes, and suggests personalized treatment plans. This information can be found in section 1.3.1 Enhancing decision-making with accurate insights. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What does predictive maintenance help achieve in the manufacturing sector?",
+        "correct_answer": "Predictive maintenance uses trusted sensor data to predict equipment failures, minimize downtime, and optimize maintenance. It also supports customer service automation using reliable data. This information can be found in section 1.3.2 Driving operational efficiency. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "How does AI accelerate innovation in scientific research?",
+        "correct_answer": "AI accelerates innovation by analyzing customer feedback and market trends for product development, and experimental data in scientific research to drive breakthroughs in fields like drug discovery and material science. This information can be found in section 1.3.3 Accelerating innovation. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What is one way trusted data supports ethical AI outcomes?",
+        "correct_answer": "Trusted data supports ethical outcomes through compliance monitoring and bias mitigation. It ensures regulatory adherence and fairness in applications such as hiring and loan approvals. This information can be found in section 1.3.4 Enhancing governance and compliance. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "How are businesses generating new revenue through AI?",
+        "correct_answer": "Businesses monetize AI by offering AI-powered analytics as services and using trusted customer data for hyper-targeted marketing, increasing conversion and loyalty. This information can be found in section 1.3.5 Unlocking new revenue streams. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "What is a key feature of watsonx.ai's Prompt Lab?",
+        "correct_answer": "Prompt Lab allows users to experiment with prompt engineering for generative AI tasks such as summarization, question answering, and text generation using foundation models. This information can be found in section 4.3.2 Key features and capabilities. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    },
+    {
+        "question": "Where can users set up their watsonx.ai environment?",
+        "correct_answer": "Users can set up their environment by visiting watsonx.ai. This information can be found in section 4.4 Getting started with watsonx.ai: Setting up the environment. For more information refer to the document.",
+        "correct_answer_document_ids": ["Unleashing the Power of AI  with IBM watsonxai.pdf"]
+    }
+]
